@@ -8,5 +8,5 @@ Download and install [tt-rss-mobilete](https://github.com/hugosenari/tt-rss-mobi
 Use webconsole or command below
 
 ```
-rhc add-cartridge https://raw.githubusercontent.com/hugosenari/tt-rss-mobilete-cart/master/metadata/manifest.yml -a
+rhc add-cartridge https://raw.githubusercontent.com/hugosenari/tt-rss-mobilete-cart/master/metadata/manifest.yml --app APP_NAME
 ```
