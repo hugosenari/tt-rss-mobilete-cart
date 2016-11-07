@@ -1,11 +1,11 @@
-Name: g2ttrss-mobile-cart
-Cartridge-Short-Name: g2ttrss
+Name: tt-rss-mobilete-cart
+Cartridge-Short-Name: tt-rss-mobilete
 Cartridge-Version: '1.0.0'
-Source-Url: https://github.com/hugosenari/g2ttrss-mobile-cart.git
+Source-Url: https://github.com/hugosenari/tt-rss-mobilete-cart.git
 Compatible-Versions:
   - '1.0.0'
 Cartridge-Vendor: hugosenari
-Display-Name: g2ttrss-mobile
+Display-Name: tt-rss-mobilete
 Description: "Mobile interface for Tiny Tiny Rss"
 Version: '1.0.0'
 Versions:
@@ -16,11 +16,11 @@ Vendor: hugosenari
 Categories:
   - plugin
   - "RSS"
-Website: https://github.com/g2ttrss/g2ttrss-mobile
+Website: "https://github.com/hugosenari/tt-rss-mobilete"
 Help-Topics:
-  "Developer Center": https://github.com/g2ttrss/g2ttrss-mobile/issues
+  "Developer Center": "https://github.com/hugosenari/tt-rss-mobilete/issues"
 Provides:
-  - g2ttrss-mobile
+  - tt-rss-mobilete
 Scaling:
   Min: 1
   Max: -1

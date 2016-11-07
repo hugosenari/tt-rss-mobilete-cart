@@ -2,7 +2,7 @@
 
 source "/etc/openshift/node.conf"
 
-git clone https://github.com/g2ttrss/g2ttrss-mobile.git
+git clone --depth 1 git@github.com:hugosenari/tt-rss-mobilete.git
 
-mv g2ttrss-mobile ../app-root/repo/php/mobile
+mv tt-rss-mobilete/www ../app-root/repo/php/mobilete
 

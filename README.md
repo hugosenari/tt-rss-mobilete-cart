@@ -1,6 +1,6 @@
-# g2ttrss-mobile-cart
+# tt-rss-mobilete-cart
 
-Download and install [g2ttrss-mobile](https://github.com/g2ttrss/g2ttrss-mobile) at your Tiny Tiny Rss OpenShift instalation as /mobile/index.htm.
+Download and install [tt-rss-mobilete](https://github.com/hugosenari/tt-rss-mobilete/) at your Tiny Tiny Rss OpenShift instalation as /mobilete/index.html.
 
 
 # Install
@@ -8,5 +8,5 @@ Download and install [g2ttrss-mobile](https://github.com/g2ttrss/g2ttrss-mobile)
 Use webconsole or command below
 
 ```
-rhc add-cartridge https://raw.githubusercontent.com/hugosenari/g2ttrss-mobile-cart/master/metadata/manifest.yml -a
+rhc add-cartridge https://raw.githubusercontent.com/hugosenari/tt-rss-mobilete-cart/master/metadata/manifest.yml -a
 ```
