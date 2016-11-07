@@ -1,0 +1,26 @@
+Name: g2ttrss-mobile-cart
+Cartridge-Short-Name: g2ttrss
+Cartridge-Version: '1.0.0'
+Source-Url: https://github.com/hugosenari/g2ttrss-mobile-cart.git
+Compatible-Versions:
+  - '1.0.0'
+Cartridge-Vendor: hugosenari
+Display-Name: g2ttrss-mobile
+Description: "Mobile interface for Tiny Tiny Rss"
+Version: '1.0.0'
+Versions:
+  - '5.3'
+License: "Any with the open source criteria"
+License-Url: http://opensource.org/osd
+Vendor: hugosenari
+Categories:
+  - plugin
+  - "RSS"
+Website: https://github.com/g2ttrss/g2ttrss-mobile
+Help-Topics:
+  "Developer Center": https://github.com/g2ttrss/g2ttrss-mobile/issues
+Provides:
+  - g2ttrss-mobile
+Scaling:
+  Min: 1
+  Max: -1

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+source "/etc/openshift/node.conf"
+
+git clone https://github.com/g2ttrss/g2ttrss-mobile.git
+
+mv g2ttrss-mobile ../app-root/repo/php/mobile
+

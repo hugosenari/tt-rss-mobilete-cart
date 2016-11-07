@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source "/etc/openshift/node.conf"
+
+rm -rf ../app-root/repo/php/mobile
