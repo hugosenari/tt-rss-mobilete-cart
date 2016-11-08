@@ -2,4 +2,5 @@
 
 source "/etc/openshift/node.conf"
 
-rm -rf ../app-root/repo/php/mobile
+rm -rf ~/app-root/repo/php/mobilete
+rm -rf tt-rss-mobilete

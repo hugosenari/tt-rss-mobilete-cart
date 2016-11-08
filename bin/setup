@@ -4,5 +4,7 @@ source "/etc/openshift/node.conf"
 
 git clone --depth 1 https://github.com/hugosenari/tt-rss-mobilete.git
 
+rm -rf ~/app-root/repo/php/mobilete
 mv tt-rss-mobilete/www ~/app-root/repo/php/mobilete
+rm -rf tt-rss-mobilete
 
